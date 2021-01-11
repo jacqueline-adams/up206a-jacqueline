@@ -10,7 +10,8 @@ I am a second year _Master of Public Policy candidate_ focusing on environmental
 * Compare these data with social capital index from the [Social Capital Project](https://www.lee.senate.gov/public/index.cfm/scp-index) (drinking water quality map and Social Capital Project data were both submitted via the Google Form). 
 * The Social Capital Project looks at state and county level factors related to social capital, or the strength of relationships and cohesion among residents in certain localities. These factors include metrics for Family Unity, Community Health, Institutional Health, and Collective Efficacy. 
 * Social capital can be a good indicaor of economic growth, civic engagement, community support, happiness and well-being, and a host of other positive social and economic factors. 
-* Mapping water quality with social capital may yield very interesting results, and I hypothesize that areas with lower social captial will also have lower quality drinking water. 
+* Mapping water quality with social capital may yield very interesting results, and I hypothesize that areas with lower social captial (or socio-demographic factors associated with lower social capital) will also have lower quality drinking water. 
+* These data will yield 3 maps: 1 for state systems "in compliance," "not in compliance," and those that "have returned to compliance" each of which will be overlayed with a color coded scale that highlights where that particular county falls on the social capital scale (based on which socio-demographic factors I choose to examine). 
       
 ### __Class Objectives__ 
  * Become more confortable with spatial analysis 
