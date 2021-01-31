@@ -1,0 +1,14 @@
+## Status Report on Final Project ## 
+
+### Title: Tracking Water Bill Debt and COVID Cases across California ### 
+
+See the link to my proposal, [here](https://github.com/jacqueline-adams/final-project/blob/main/README.md)
+
+
+**Status Update:** I have decided to change course on my project a little. Originally, I was just going to focus on water bill debt and demographics and overlay 
+that information with water system boundaries. After talking with my research mentor, who told me that the dataset I was planning on using for water system boundaries
+has already been used in research extensively, I decided to go another direction. I am now going to either overlay or compare by bill debt and demographic data 
+with COVID case numbers, by county. I am currently trying to figure out the best way to convey this information - I can only find COVID data by county, and my 
+water bill data is by zip code. I need to determine if this will shed any light on COVID cases and water system strain, or if the comparisons will not be worth doing.
+Another option is looking for zip-code level COVID numbers, but this might prove tricky. This is currently where I am with the project! 
+
